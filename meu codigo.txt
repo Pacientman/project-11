@@ -1,2 +1,4 @@
 Oi meu nome é Lucas!
 
+toda base deve ser configurada
+
